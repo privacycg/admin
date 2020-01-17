@@ -7,7 +7,7 @@ This repository is for administration of the
 * [Deliverables](https://privacycg.github.io/charter.html#deliverables) (specifications and other reports of the CG)
 * [Homepage](https://privacycg.github.io/)
 * [Meetings](https://github.com/privacycg/meetings/) (where we organize face-to-face meetings and teleconferences)
-* [Participants](https://www.w3.org/community/privacy/participants) (if you don’t see yourself on this list, please consider [joining the CG](https://www.w3.org/community/privacycg/join))
+* [Participants](https://www.w3.org/community/privacycg/participants) (if you don’t see yourself on this list, please consider [joining the CG](https://www.w3.org/community/privacycg/join))
 * [Proposals](https://github.com/privacycg/proposals/) (incubation of ideas which are not yet deliverables)
 
 If you have any questions or concerns, the
