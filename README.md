@@ -17,8 +17,8 @@ of news.
 * The CG [Homepage](https://privacycg.github.io/) and [Charter](https://privacycg.github.io/charter.html)
 * [Participants](https://www.w3.org/community/privacycg/participants) (if you don’t see yourself on this list, please consider [joining the CG](https://www.w3.org/community/privacycg/join)! In order to join, you'll need to [create a W3C account](https://www.w3.org/accounts/request) if you don't already have one.)
 
-* [Proposals](https://github.com/privacycg/proposals/) (incubation of ideas which are not yet deliverables)
-* [Deliverables](https://privacycg.github.io/charter.html#deliverables) (specifications and other reports of the CG)
+* [Proposals](https://github.com/privacycg/proposals/) (incubation of ideas which are not yet work items)
+* [Work Items](https://privacycg.github.io/charter.html#work-items)
 
 * [Meetings](https://github.com/privacycg/meetings/) (where we organize face-to-face meetings and teleconferences)
 
