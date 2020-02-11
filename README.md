@@ -1,26 +1,17 @@
-# Privacy Community Group administration repository
-
-This repository is for administration of the
-[Privacy Community Group](https://privacycg.github.io/).
+# [Privacy Community Group](https://privacycg.github.io/) administration repository
 
 This repository's [issue
-tracker](https://github.com/privacycg/admin/issues/) is where CG
-participants can [raise questions or
-concerns](https://github.com/privacycg/admin/issues/new) to the
-[chairs](https://privacycg.github.io/charter.html#chairs). It's also
-where the chairs [notify the
-group](https://github.com/privacycg/admin/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement)
-of news.
+tracker](https://github.com/privacycg/admin/issues/) is where:
 
-## Useful Privacy CG links
+* Community Group Participants can [raise questions or concerns](https://github.com/privacycg/admin/issues/new) to the [chairs](https://privacycg.github.io/charter.html#chairs).
+* The chairs [notify the group](https://github.com/privacycg/admin/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement) of news.
+* Anyone can [raise a "meta" issue](https://github.com/privacycg/admin/issues/new) about work in the group.
 
-* The CG [Homepage](https://privacycg.github.io/) and [Charter](https://privacycg.github.io/charter.html)
-* [Participants](https://www.w3.org/community/privacycg/participants) (if you don’t see yourself on this list, please consider [joining the CG](https://www.w3.org/community/privacycg/join)! In order to join, you'll need to [create a W3C account](https://www.w3.org/accounts/request) if you don't already have one.)
-
-* [Proposals](https://github.com/privacycg/proposals/) (incubation of ideas which are not yet work items)
-* [Work Items](https://privacycg.github.io/charter.html#work-items)
-
-* [Meetings](https://github.com/privacycg/meetings/) (where we organize face-to-face meetings and teleconferences)
+Feedback on the group's
+[charter](https://privacycg.github.io/charter.html) should be
+[filed](https://github.com/privacycg/privacycg.github.io/issues/new) in
+the [privacycg/privacycg.github.io
+repo](https://github.com/privacycg/privacycg.github.io/issues/new).
 
 ## Code of Conduct
 
