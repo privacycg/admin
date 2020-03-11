@@ -13,6 +13,9 @@ Feedback on the group's
 the [privacycg/privacycg.github.io
 repo](https://github.com/privacycg/privacycg.github.io/issues/new).
 
+This repository also contains HOWTOs and notes [for chairs](chairs/) and
+[for editors](editors/).
+
 ## Code of Conduct
 
 As a W3C Community Group, all work and communication within the Privacy
